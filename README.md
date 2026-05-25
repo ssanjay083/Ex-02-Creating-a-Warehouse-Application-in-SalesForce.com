@@ -1,4 +1,6 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
+# Name: Sanjay S
+# Register Number: 212224110047
 
 ## AIM:
 To create a warehouse application in salesforce.com
